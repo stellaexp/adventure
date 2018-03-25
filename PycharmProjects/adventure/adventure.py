@@ -27,4 +27,4 @@ while True:
     if new_position:
         position = new_position
     else:
-        print "sorry - not a valid direction"
+        print "sorry, not a valid direction"
